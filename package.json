@@ -1,0 +1,23 @@
+{
+  "name": "challenge-javascript-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acroventus/challenge-javascript-01.git"
+  },
+  "author": "Acroventus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acroventus/challenge-javascript-01/issues"
+  },
+  "homepage": "https://github.com/acroventus/challenge-javascript-01#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
